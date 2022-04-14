@@ -8,23 +8,25 @@
   "license": "MIT",
   "type": "project",
   "require": {
-    "php": ">=7.0.0",
+    "php": ">=7.2.5",
     "components/bootstrap-datetimepicker": "^2.4",
     "doctrine/dbal": "^2.5",
     "fideloper/proxy": "^4.0",
     "intervention/image": "^2.4",
-    "laravel/dusk": "5.9.2",
-    "laravel/framework": "5.8.38",
-    "laravel/tinker": "~1.0",
-    "laravelcollective/html": "^5.5",
-    "nesbot/carbon": "1.26.*",
-    "symfony/process": "4.2"
+    "laravel/dusk": "5.10.0",
+    "laravel/framework": "7.0",
+    "laravel/helpers": "^1.5",
+    "laravel/tinker": "2.0",
+    "laravel/ui": "2.0",
+    "laravelcollective/html": "^6.3",
+    "nesbot/carbon": "2.40",
+    "symfony/process": "5.0"
   },
   "require-dev": {
     "fakerphp/faker": "^1.19",
     "filp/whoops": "~2.0",
     "mockery/mockery": "0.9.*",
-    "phpunit/phpunit": "^7.0"
+    "phpunit/phpunit": "^8.5"
   },
   "autoload": {
     "classmap": [
