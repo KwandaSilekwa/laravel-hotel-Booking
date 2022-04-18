@@ -1,8 +1,5 @@
 # Laravel 8.83.8 based system for hotel managers to manage room bookings
 
-It is a demo project for demonstrating what can be generated with [QuickAdminPanel](https://quickadminpanel.com) tool.
-Hotel Booking is all generated with __QuickAdmin__ except for some custom code for Room Search.
-
 ![Hotel_Booking screenshot](https://i.ibb.co/h8ft6Sv/hotel-booking-demo.png)
 
 # Preview
