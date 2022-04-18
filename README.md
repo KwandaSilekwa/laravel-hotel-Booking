@@ -3,7 +3,7 @@
 It is a demo project for demonstrating what can be generated with [QuickAdminPanel](https://quickadminpanel.com) tool.
 Hotel Booking is all generated with __QuickAdmin__ except for some custom code for Room Search.
 
-![Hotel_Booking screenshot](https://i.ibb.co/s3HMfZr/hotel-booking-demo.png)
+![Hotel_Booking screenshot]("https://i.ibb.co/h8ft6Sv/hotel-booking-demo.png")
 
 # Preview
 To see this a live deploy of this project
